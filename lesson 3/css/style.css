@@ -1,0 +1,13 @@
+p.history{
+    color: orange;
+}
+.history +p{
+    color: coral;
+}
+ul{
+    color: blueviolet;
+}
+.list .yellow{
+    color:yellow;
+}
+
